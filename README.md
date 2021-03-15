@@ -1,4 +1,4 @@
-# CircleCI Contexts CLI Demo [![CircleCI](https://circleci.com/gh/mvxt/circleci-demo-context-cli.svg?style=shield&circle-token=5a49c2c32b4bf0e25f4c911dd0477c280b2e72a1)](https://circleci.com/gh/mvxt/circleci-demo-context-cli)
+# CircleCI Contexts CLI Live Demo [![CircleCI](https://circleci.com/gh/mvxt/circleci-demo-context-cli.svg?style=shield&circle-token=5a49c2c32b4bf0e25f4c911dd0477c280b2e72a1)](https://circleci.com/gh/mvxt/circleci-demo-context-cli)
 
 Repository showcasing usage of CircleCI's new context CLI functionality.
 
